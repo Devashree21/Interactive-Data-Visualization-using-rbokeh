@@ -10,7 +10,7 @@ The jupyter notebook (.ipynb) provides the code and this readme contains all the
 
 rbokeh is an open-source native R plotting package using the Bokeh visualization tool. It gives a flexible declarative interface for dynamic web-based visualizations. Ryan Hafen has developed and currently maintains the rbokeh package. 
 
-**4) Which dataset has been used?**
+**3) Which dataset has been used?**
 
 For this tutorial, we have used different pre-installed data sets like Orange, Flightfreq, iris etc.
 
